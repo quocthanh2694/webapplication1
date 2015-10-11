@@ -79,8 +79,8 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="asfsdfdsfd2.cs" />
     <Compile Include="Class1.cs" />
-    <Compile Include="Class222222.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
